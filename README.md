@@ -1,3 +1,9 @@
+<br />
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yukino-org/media/main/gh-banner.png" width="50%">
+</p>
+
 # Yukino Org
 
 The organisation's name "Yukino" meaning "Snow" was named after the character "Yukino Yukinoshita" from the anime "Yahari Ore no Seishun Love Comedy wa Machigatteiru".
