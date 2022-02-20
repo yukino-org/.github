@@ -17,7 +17,8 @@ The organisation's name "Yukino" meaning "Snow" was named after the character "Y
 -   [Discord](https://discord.gg/dUHbfHNUmE)
 -   [Reddit](https://www.reddit.com/r/yukino_org)
 -   [Patreon](https://patreon.com/yukino_org)
--   [Mail](yukino-org@hotmail.com)
+
+For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmail.com).
 
 ## Branding
 
