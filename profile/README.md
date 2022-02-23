@@ -1,12 +1,12 @@
 <br />
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/yukino-org/media/main/gh-banner.png" width="50%">
+    <img src="https://github.com/yukino-org/media/blob/main/images/gh-banner.png?raw=true" width="70%">
 </p>
 
 # Yukino Org
 
-The organisation's name "Yukino" meaning "Snow" was named after the character "Yukino Yukinoshita" from the anime "Yahari Ore no Seishun Love Comedy wa Machigatteiru".
+The organisation's name "Yukino" meaning "Snow" was named after the character "Yukino Yukinoshita" from the anime "Yahari Ore no Seishun Love Comedy wa Machigatteiru". The logo contains the Kanji letter "雪" (Yuki).
 
 ## Links
 
@@ -28,7 +28,7 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 
 ## Projects
 
--   [Yukino CLI](https://github.com/yukino-org/yukino-cli)
--   [Extensions Store](https://github.com/yukino-org/extensions-store)
--   [Official Extensions](https://github.com/yukino-org/official-extensions)
+-   [Yukimi](https://github.com/yukino-org/yukimi)
+-   [Tenka Store](https://github.com/yukino-org/tenka-store)
+-   [Official Tenka(s)](https://github.com/yukino-org/official-tenkas)
 -   [Packages](https://github.com/yukino-org/packages)
