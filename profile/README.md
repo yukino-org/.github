@@ -1,7 +1,7 @@
 <br />
 
 <p align="center">
-    <img src="https://github.com/yukino-org/media/blob/main/images/gh-banner.png?raw=true" width="70%">
+    <img src="https://github.com/yukino-org/media/blob/main/images/gh-banner.png?raw=true">
 </p>
 
 # Yukino Org
@@ -34,5 +34,6 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 [![Primary](https://img.shields.io/badge/Primary-%236366F1-white.svg?style=flat&color=6366F1)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1) [![Secondary](https://img.shields.io/badge/Secondary-%2318181b-white.svg?style=flat&color=18181b)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1)
 
 ### Fonts
+
 -   [Poppins](https://fonts.google.com/specimen/Poppins)
 -   [Great Vibes](https://fonts.google.com/specimen/Great+Vibes)
