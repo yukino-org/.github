@@ -20,15 +20,19 @@ The organisation's name "Yukino" meaning "Snow" was named after the character "Y
 
 For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmail.com).
 
-## Branding
-
-### Colors
-
-[![Primary](https://img.shields.io/badge/Primary-%236366F1-white.svg?style=flat&color=6366F1)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1) [![Secondary](https://img.shields.io/badge/Secondary-%2318181b-white.svg?style=flat&color=18181b)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1)
-
 ## Projects
 
 -   [Yukimi](https://github.com/yukino-org/yukimi)
 -   [Tenka Store](https://github.com/yukino-org/tenka-store)
 -   [Official Tenka(s)](https://github.com/yukino-org/official-tenkas)
 -   [Packages](https://github.com/yukino-org/packages)
+
+## Branding
+
+### Colors
+
+[![Primary](https://img.shields.io/badge/Primary-%236366F1-white.svg?style=flat&color=6366F1)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1) [![Secondary](https://img.shields.io/badge/Secondary-%2318181b-white.svg?style=flat&color=18181b)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1)
+
+### Fonts
+-   [Poppins](https://fonts.google.com/specimen/Poppins)
+-   [Great Vibes](https://fonts.google.com/specimen/Great+Vibes)
