@@ -24,7 +24,7 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 
 -   [Yukimi](https://github.com/yukino-org/yukimi)
 -   [Tenka Store](https://github.com/yukino-org/tenka-store)
--   [Official Tenka(s)](https://github.com/yukino-org/official-tenkas)
+-   [Official Tenka Modules](https://github.com/yukino-org/official-tenka-modules)
 -   [Packages](https://github.com/yukino-org/packages)
 
 ## Branding
