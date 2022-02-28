@@ -31,7 +31,10 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 
 ### Colors
 
-[![Primary](https://img.shields.io/badge/Primary-%236366F1-white.svg?style=flat&color=6366F1)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1) [![Secondary](https://img.shields.io/badge/Secondary-%2318181b-white.svg?style=flat&color=18181b)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1)
+[![Indigo](https://img.shields.io/badge/Indigo-%236366F1-white.svg?style=flat&color=6366F1)](https://img.shields.io/badge/Indigo-%236366F1-white.svg?color=6366F1)
+[![Violet](https://img.shields.io/badge/Violet-%234c1d95-white.svg?style=flat&color=4c1d95)](https://img.shields.io/badge/Violet-%234c1d95-white.svg?color=4c1d95)
+[![White](https://img.shields.io/badge/White-%23ffffff-white.svg?style=flat&color=ffffff)](https://img.shields.io/badge/White-%23ffffff-white.svg?color=ffffff)
+[![Zinc](https://img.shields.io/badge/Zinc-%2318181b-white.svg?style=flat&color=18181b)](https://img.shields.io/badge/Zinc-%2318181b-white.svg?color=18181b)
 
 ### Fonts
 
