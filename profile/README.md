@@ -11,8 +11,8 @@ The organisation's name "Yukino" meaning "Snow" was named after the character "Y
 ## Links
 
 <!-- -   Website: https://yukino-app.github.io (Unavailable) -->
-<!-- -   User guide: https://yukino-app.github.io/guides (Unavailable) -->
 
+-   [Wiki](https://yukino-org.github.io/wiki/)
 -   [GitHub](https://github.com/yukino-org)
 -   [Discord](https://discord.gg/dUHbfHNUmE)
 -   [Reddit](https://www.reddit.com/r/yukino_org)
@@ -24,7 +24,7 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 
 -   [Yukimi](https://github.com/yukino-org/yukimi)
 -   [Tenka Store](https://github.com/yukino-org/tenka-store)
--   [Official Tenka Modules](https://github.com/yukino-org/official-tenka-modules)
+-   [Tenka Modules](https://github.com/yukino-org/tenka-modules)
 -   [Packages](https://github.com/yukino-org/packages)
 
 ## Branding
