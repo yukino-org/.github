@@ -23,6 +23,7 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 ## Projects
 
 -   [Yukimi](https://github.com/yukino-org/yukimi)
+-   [Fuyu](https://github.com/yukino-org/fuyu)
 -   [Tenka Store](https://github.com/yukino-org/tenka-store)
 -   [Tenka Modules](https://github.com/yukino-org/tenka-modules)
 -   [Packages](https://github.com/yukino-org/packages)
