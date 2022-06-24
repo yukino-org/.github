@@ -22,11 +22,11 @@ For any queries, contact me at [yukino-org@hotmail.com](mailto:yukino-org@hotmai
 
 ## Projects
 
--   [Yukimi](https://github.com/yukino-org/yukimi)
--   [Fuyu](https://github.com/yukino-org/fuyu)
--   [Tenka Store](https://github.com/yukino-org/tenka-store)
--   [Tenka Modules](https://github.com/yukino-org/tenka-modules)
--   [Packages](https://github.com/yukino-org/packages)
+-   [Yukimi](https://github.com/yukino-org/yukimi) - ☄ Anime/Manga command-line interface backed up by Tenka.
+-   [Fuyu](https://github.com/yukino-org/fuyu) - 🏂 A self-hostable rest api server for Tenka.
+-   [Tenka Store](https://github.com/yukino-org/tenka-store) - 🏪 Where all Tenka modules come together.
+-   [Tenka Modules](https://github.com/yukino-org/tenka-modules) - ⚡ Officially maintained Tenka modules.
+-   [Packages](https://github.com/yukino-org/packages) - 📦️ Sub-packages used by Yukino Org.
 
 ## Branding
 
